@@ -81,7 +81,7 @@ Sempre em busca de novos desafios e oportunidades para ampliar meus conhecimento
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatanhs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatanhs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true&count_private=false" 
   />
 
 </p>
